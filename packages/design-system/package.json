@@ -1,0 +1,22 @@
+{
+  "name": "design-system",
+  "version": "1.0.0",
+  "description": "Desing System ",
+  "author": "Ali Jamali <ali.jamali@idealo.de>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/design-system.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://repo.eu.idealo.com/artifactory/api/npm/npm-repo"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
